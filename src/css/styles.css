@@ -1,0 +1,17 @@
+body {
+  background-color: #fa00a7;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body img {
+  width: 50vh;
+}
+/*# sourceMappingURL=styles.css.map */
